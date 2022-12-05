@@ -1,4 +1,6 @@
 # 💫About Me :
+Initially started coding and working with hardware using a single Arduino Uno over a decade ago. Ever since, I learned many more programming languages and continuously tried to challenge myself with new projects and hardware.
+
 🌍 I'm based in Netherlands<br>
 ✉️ You can contact me at info@hennig.dev<br>
 🧠 I'm learning Certified Ethical Hacking & Secure Programming<br>
