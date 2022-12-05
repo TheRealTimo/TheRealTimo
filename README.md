@@ -1,8 +1,8 @@
 # 💫About Me :
-🌍 I'm based in Netherlands
-✉️ You can contact me at info@hennig.dev
-🧠 I'm learning Certified Ethical Hacking & Secure Programming
-🤝 I'm open to collaborating on small side projects
+🌍 I'm based in Netherlands<br>
+✉️ You can contact me at info@hennig.dev<br>
+🧠 I'm learning Certified Ethical Hacking & Secure Programming<br>
+🤝 I'm open to collaborating on small side projects<br>
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/886717344863367208) 
